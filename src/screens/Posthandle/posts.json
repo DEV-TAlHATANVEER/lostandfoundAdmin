@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "content": "Lost black iPhone 12 near Union Square",
+      "author": "Alice",
+      "date": "2024-05-01",
+      "status": "Pending",
+      "category": "Electronics",
+      "description": "Lost iPhone 12 in a black case. Last seen near Union Square.",
+      "images": [],
+      "location": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "lostFoundDate": "2024-04-30"
+    },
+    {
+      "id": 2,
+      "content": "Found stray golden retriever in downtown LA",
+      "author": "Bob",
+      "date": "2024-05-02",
+      "status": "Pending",
+      "category": "Pets",
+      "description": "Found a friendly golden retriever without a collar near downtown Los Angeles.",
+      "images": [],
+      "location": {
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "lostFoundDate": "2024-04-28"
+    },
+    {
+      "id": 3,
+      "content": "Lost brown leather wallet at Times Square",
+      "author": "Charlie",
+      "date": "2024-05-03",
+      "status": "Pending",
+      "category": "Accessories",
+      "description": "Lost a brown leather wallet containing ID and credit cards. Last seen at Times Square.",
+      "images": [],
+      "location": {
+        "lat": 40.7128,
+        "lng": -74.0060
+      },
+      "lostFoundDate": "2024-04-29"
+    },
+    {
+      "id": 4,
+      "content": "Found black jacket in London Underground",
+      "author": "David",
+      "date": "2024-05-04",
+      "status": "Pending",
+      "category": "Clothing",
+      "description": "Found a black jacket in the London Underground. It has a blue lining inside.",
+      "images": [],
+      "location": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "lostFoundDate": "2024-04-27"
+    },
+    {
+      "id": 5,
+      "content": "Lost wireless earbuds in Paris Metro",
+      "author": "Eve",
+      "date": "2024-05-05",
+      "status": "Pending",
+      "category": "Gadgets",
+      "description": "Lost a pair of white wireless earbuds in the Paris Metro.",
+      "images": [],
+      "location": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "lostFoundDate": "2024-04-26"
+    },
+    {
+      "id": 6,
+      "content": "Found gold ring near Shibuya Crossing",
+      "author": "Frank",
+      "date": "2024-05-06",
+      "status": "Pending",
+      "category": "Jewelry",
+      "description": "Found a gold ring with an inscription near Shibuya Crossing in Tokyo.",
+      "images": [],
+      "location": {
+        "lat": 35.6895,
+        "lng": 139.6917
+      },
+      "lostFoundDate": "2024-04-25"
+    },
+    {
+      "id": 7,
+      "content": "Lost book 'The Great Gatsby' in Los Angeles",
+      "author": "Grace",
+      "date": "2024-05-07",
+      "status": "Pending",
+      "category": "Books",
+      "description": "Lost a book titled 'The Great Gatsby' with a blue cover in Los Angeles.",
+      "images": [],
+      "location": {
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "lostFoundDate": "2024-04-24"
+    },
+    {
+      "id": 8,
+      "content": "Found set of keys in Moscow",
+      "author": "Hank",
+      "date": "2024-05-08",
+      "status": "Pending",
+      "category": "Documents",
+      "description": "Found a set of keys with a distinctive keychain near Red Square in Moscow.",
+      "images": [],
+      "location": {
+        "lat": 55.7558,
+        "lng": 37.6173
+      },
+      "lostFoundDate": "2024-04-23"
+    },
+    {
+      "id": 9,
+      "content": "Lost teddy bear at Berlin Central Station",
+      "author": "Ivy",
+      "date": "2024-05-09",
+      "status": "Pending",
+      "category": "Toys",
+      "description": "Lost a brown teddy bear with a red ribbon at Berlin Central Station.",
+      "images": [],
+      "location": {
+        "lat": 52.5200,
+        "lng": 13.4050
+      },
+      "lostFoundDate": "2024-04-22"
+    },
+    {
+      "id": 10,
+      "content": "Found soccer ball at the Colosseum",
+      "author": "Jack",
+      "date": "2024-05-10",
+      "status": "Pending",
+      "category": "Sports Equipment",
+      "description": "Found a soccer ball with signatures at the Colosseum in Rome.",
+      "images": [],
+      "location": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "lostFoundDate": "2024-04-21"
+    }
+  ]
+  
